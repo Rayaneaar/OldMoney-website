@@ -86,7 +86,6 @@ body{
     margin-top: 190px;
     display: flex;
     justify-content: space-around;
-    border: 2px solid black;
   }
   .shop .shopinfo select{
     display: block;
